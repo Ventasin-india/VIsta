@@ -1,0 +1,6 @@
+{
+  "name": "Atlas Travel",
+  "description": "Book tours, rent vehicles, and manage itineraries with real-time availability and a loyalty program.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
